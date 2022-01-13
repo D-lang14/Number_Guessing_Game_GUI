@@ -1,4 +1,4 @@
-# Modified version of Number Guessing Game
+# ----------------------------------------------------Modified version of Number Guessing Game----------------------------------------------------
 
 import random
 
@@ -36,9 +36,4 @@ while count < 5:
     else:
         print("try again")
 
-
-'''
-Issues Need to Resolve 
-1. Bymistakenly, instead of giving inputs pressed enter, so should not give error
-2. We can vary chances according to range 
-'''
+# ----------------------------------------------------End of Program----------------------------------------------------
