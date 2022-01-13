@@ -1,4 +1,4 @@
-# GUI of Number Guessing Game
+# ----------------------------------------------------GUI of Number Guessing Game----------------------------------------------------
 
 from tkinter import *
 import random
@@ -113,3 +113,5 @@ class NumberGuessingGameGUI:
 # Calling the class
 NumberGuessingGameGUI()
 
+
+# ----------------------------------------------------End of Program----------------------------------------------------
