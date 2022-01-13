@@ -1,4 +1,5 @@
-# # Number Guessing Game
+# ----------------------------------------------------Number Guessing Game----------------------------------------------------
+
 # This was the basic program
 # Where we have limited our conditions
 
@@ -25,3 +26,6 @@ while (flag != num):
         break
     else:
         print("Oops, Try Again!!")
+
+        
+# ---------------------------------------------------- End of Program ----------------------------------------------------
